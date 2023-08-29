@@ -17,7 +17,7 @@ xx/yy/dddd - time details
 
 Number of people attending :-
 ~~~~
-10 Rust developers
+10 developers
 10 Students interested to learn rust
 total : 20 people
 ~~~~
